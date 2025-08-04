@@ -4,6 +4,7 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
+		<script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
 		<meta charset="utf-8" />
 		<title>The Pop Tart Cat Game</title>
 		<link rel="stylesheet" href="<?php echo $dl_base_url; ?>media/css/reset.css" type="text/css" />
